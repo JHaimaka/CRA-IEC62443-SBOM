@@ -32,14 +32,9 @@ Materiaali soveltuu erityisesti:
   Kaksipäiväisen koulutuksen koontimateriaali, joka käsittelee:
   - CRA:n keskeiset vaatimukset
   - IEC 62443 -turvallisen tuotekehityksen (SDL)
-  - SBOM ja ohjelmistojen toimitusketju
+  - SBOM
+  - IoT laitteen firmwaren analyysia
 
-### CRA-lainsäädännön esimerkki
-
-- **Article_14_Reporting-obligations_of_manufacturers.pdf**  
-  CRA:n **artikla 14** – valmistajien raportointivelvollisuudet, erityisesti:
-  - *aktiivisesti hyödynnetyt haavoittuvuudet*
-  - raportointi viranomaisille
 
 ---
 
@@ -51,8 +46,8 @@ Repo selittää käytännön näkökulmasta:
 - **IEC 62443-4-1** turvallinen tuotekehitys (Secure Development Lifecycle)
 - **IEC 62443-4-2** komponenttien turvallisuusvaatimukset
 - **SBOM** ja ohjelmistokomponenttien läpinäkyvyys
-- ohjelmistojen **supply chain -riskit**
-- haavoittuvuuksien tunnistaminen ja raportointi
+- haavoittuvuuksien tunnistaminen
+- IoT laitteen firmwaren analyysia
 
 ---
 
