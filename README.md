@@ -28,13 +28,14 @@ Materiaali soveltuu erityisesti:
 
 ### Pääkoulutusmateriaali
 
-- **CRA_IEC62443_SBOM.pdf**  
-  Kaksipäiväisen koulutuksen koontimateriaali, joka käsittelee:
-  - CRA:n keskeiset vaatimukset
-  - IEC 62443 -turvallisen tuotekehityksen (SDL)
-  - SBOM
-  - IoT laitteen firmwaren analyysia
+- [CRA_IEC62443_SBOM_2026.pdf](CRA_IEC62443_SBOM_2026.pdf)
 
+Kaksipäiväisen koulutuksen koontimateriaali, joka käsittelee:
+
+- CRA:n keskeiset vaatimukset  
+- IEC 62443 -turvallisen tuotekehityksen (SDL)  
+- SBOM (Software Bill of Materials)  
+- IoT-laitteen firmwaren analyysi
 
 ---
 
@@ -47,7 +48,7 @@ Repo selittää käytännön näkökulmasta:
 - **IEC 62443-4-2** komponenttien turvallisuusvaatimukset
 - **SBOM** ja ohjelmistokomponenttien läpinäkyvyys
 - haavoittuvuuksien tunnistaminen
-- IoT laitteen firmwaren analyysia
+- IoT-laitteen firmwaren analyysi
 
 ---
 
@@ -58,6 +59,7 @@ Tämä materiaali on lisensoitu:
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
 Voit:
+
 - käyttää materiaalia
 - jakaa sitä
 - muokata sitä
