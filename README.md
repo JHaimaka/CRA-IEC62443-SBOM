@@ -13,7 +13,7 @@ Tarjota **selkeä ja käytännönläheinen kokonaiskuva** seuraavista asioista:
 - EU:n **Cyber Resilience Act (CRA)** ja valmistajan vastuut  
 - **IEC 62443** -standardisarjan rooli turvallisessa tuotekehityksessä (SDL)  
 - **SBOM (Software Bill of Materials)** ja ohjelmistojen toimitusketjun läpinäkyvyys  
-- käytännön työkalut kuten **Syft, Grype ja Binwalk**
+- käytännön työkalut kuten **Syft ja Grype**
 
 Materiaali soveltuu erityisesti:
 
@@ -35,7 +35,6 @@ Kaksipäiväisen koulutuksen koontimateriaali, joka käsittelee:
 - CRA:n keskeiset vaatimukset  
 - IEC 62443 -turvallisen tuotekehityksen (SDL)  
 - SBOM (Software Bill of Materials)  
-- IoT-laitteen firmwaren analyysi
 
 ---
 
@@ -48,7 +47,6 @@ Repo selittää käytännön näkökulmasta:
 - **IEC 62443-4-2** komponenttien turvallisuusvaatimukset
 - **SBOM** ja ohjelmistokomponenttien läpinäkyvyys
 - haavoittuvuuksien tunnistaminen
-- IoT-laitteen firmwaren analyysi
 
 ---
 
