@@ -24,22 +24,26 @@ Materiaali soveltuu erityisesti:
 
 ---
 
-## Materiaalit
+## Koulutusmateriaali
 
-### Koulutusmateriaali
-
-**Kaksipäiväisen koulutuksen materiaali, joka käsittelee:**
+**1. CRA - IEC 62443 - SBOM -materiaali antaa yleiskuvan:**
 - CRA:n keskeiset vaatimukset  
 - IEC 62443 -turvallisen tuotekehityksen (SDL)  
 - SBOM (Software Bill of Materials)  
 
 [CRA_IEC62443_SBOM_2026.pdf](CRA_IEC62443_SBOM_2026.pdf)
 
-**Tuotteen valmistajan raportointivelvollisuus**
+**2. Tuotteen valmistajan raportointivelvollisuus**
 - Aktiivisesti hyödynnettävä haavoittuvuus
 - Vakava poikkeama
 
 [CRA_Haavoittuvuuksien_raportointivelvoite.pdf](CRA_Haavoittuvuuksien_raportointivelvoite.pdf)
+
+**3. Tuotteen vaatimuksenmukaisuuden arviointi 12/2027 alkaen**
+- Tuotetyyppijaottelu
+
+[CRA_Tuotteen_vaatimuksen_mukaisuuden_arviointi.pdf](CRA_Tuotteen_vaatimuksen_mukaisuuden_arviointi.pdf)
+
 
 ---
 
