@@ -26,42 +26,22 @@ Materiaali soveltuu erityisesti:
 
 ## Koulutusmateriaali
 
-**1. CRA - IEC 62443 - SBOM -materiaali antaa yleiskuvan:**
+**1. CRA - IEC 62443 - SBOM -materiaali antaa yleiskuvan:** (päivitetty 16.2.2026)
 - CRA:n keskeiset vaatimukset  
 - IEC 62443 -turvallisen tuotekehityksen (SDL)  
 - SBOM (Software Bill of Materials)  
 
 [CRA_IEC62443_SBOM_2026.pdf](CRA_IEC62443_SBOM_2026.pdf)
 
-**2. Tuotteen valmistajan raportointivelvollisuus**
+**2. Tuotteen valmistajan raportointivelvollisuus 9/2026 alkaen**  (päivitetty 8.4.2026)
 - Aktiivisesti hyödynnettävä haavoittuvuus
 - Vakava poikkeama
+- Tietoisuus raportoinnin vaatimuksena
 
 [CRA_Haavoittuvuuksien_raportointivelvoite.pdf](CRA_Haavoittuvuuksien_raportointivelvoite.pdf)
 
-**3. Tuotteen vaatimuksenmukaisuuden arviointi 12/2027 alkaen**
+**3. Tuotteen vaatimuksenmukaisuuden arviointi 12/2027 alkaen**  (päivitetty 31.3.2026)
 - Tuotetyyppijaottelu
+- Tuotteen vaatimuksen mukaisuuden arviointi
 
 [CRA_Tuotteen_vaatimuksen_mukaisuuden_arviointi.pdf](CRA_Tuotteen_vaatimuksen_mukaisuuden_arviointi.pdf)
-
-
----
-
-## Lisenssi
-
-Tämä materiaali on lisensoitu:
-
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**
-
-Voit:
-
-- käyttää materiaalia
-- jakaa sitä
-- muokata sitä
-
-kunhan mainitset alkuperäisen tekijän.
-
-**Copyright (c) 2026 linkedin.com/in/jarmo-haimakainen**
-
-Lisenssin koko teksti:  
-https://creativecommons.org/licenses/by/4.0/
