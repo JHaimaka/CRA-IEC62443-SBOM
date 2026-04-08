@@ -45,3 +45,25 @@ Materiaali soveltuu erityisesti:
 - Tuotteen vaatimuksen mukaisuuden arviointi
 
 [CRA_Tuotteen_vaatimuksen_mukaisuuden_arviointi.pdf](CRA_Tuotteen_vaatimuksen_mukaisuuden_arviointi.pdf)
+
+
+---
+
+## Lisenssi
+
+Tämä materiaali on lisensoitu:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+Voit:
+
+- käyttää materiaalia
+- jakaa sitä
+- muokata sitä
+
+kunhan mainitset alkuperäisen tekijän.
+
+**Copyright (c) 2026 linkedin.com/in/jarmo-haimakainen**
+
+Lisenssin koko teksti:  
+https://creativecommons.org/licenses/by/4.0/
